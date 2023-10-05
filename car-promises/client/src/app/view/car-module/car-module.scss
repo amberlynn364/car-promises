@@ -1,0 +1,45 @@
+.car-module {
+  padding-top: 10px;
+}
+
+.car-settings,
+.car-handler {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+
+  .car-title {
+    margin: 0;
+    font-size: 1.3rem;
+    font-weight: normal;
+    padding-left: 20px;
+  }
+
+  .car-view {
+    padding-left: 10px;
+    padding-top: 5px;
+  }
+
+}
+
+.car-handler {
+  height: 35px;
+  border-bottom: 3px dashed;
+
+  .car-view {
+  }
+
+  .finish-flag {
+    margin-left: auto;
+    padding-right: 100px;
+    background-image: url('../../../assets/svg/finish-flag.svg');
+    width: 30px;
+    height: 30px;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}
+
+
+
+

@@ -1,0 +1,23 @@
+@import './sass/base/normalize';
+@import './sass/base/typography';
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: linear-gradient(to right, #536976, #292e49);
+  color: #fff;
+  font-family: Roboto, sans-serif;
+}
+
+.content-wrapper {
+  width: 95%;
+  padding: 10px;
+  // width: 100vw;
+
+}

@@ -1,0 +1,18 @@
+@import '../../../sass/components/button';
+
+.header {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 20px;
+
+  .title {
+    margin: 0;
+    padding: 5px;
+  }
+  
+  .nav {
+    display: flex;
+    gap: 10px;
+  }
+}
