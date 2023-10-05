@@ -31,11 +31,15 @@ To run this project, follow these steps:
    ```bash
    git checkout develop
    ```
-4. Install the dependencies:
+3. Navigate to the server directory:
+   ```bash
+   cd car-promises/ && cd server/
+   ```
+5. Install the dependencies:
    ```bash
    npm install
    ```
-5. Start the project:
+6. Start the project:
    ```bash
    npm start
    ```
