@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project is aimed at enhancing your skills in the following areas:
+This project is aimed at enhancing skills in the following areas:
 
 - **Communication with a server (Fetch and REST API)**: Learn how to interact with a server and retrieve data using Fetch and RESTful APIs.
 
